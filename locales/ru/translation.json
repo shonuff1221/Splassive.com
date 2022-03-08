@@ -1,0 +1,700 @@
+{
+    "SWAP":{
+        "1": "МЕНЯТЬ"
+    },
+    "THETAP":{
+        "1": "КРАН"
+    },
+    "THESHORE":{
+        "1": "Были шумы"
+    },
+    "Whitepaper":{
+        "1": "Белая бумага"
+    },
+    "SplashDAO":{
+        "1": "Всплеск DAO"
+    },
+    "Tutorial":{
+        "1": "Руководство"
+    },
+    "English":{
+        "1": "английский"
+    },
+    "China":{
+        "1": "Китай"
+    },
+    "Korea":{
+        "1": "Корея"
+    },
+    "Spain":{
+        "1": "Испания"
+    },
+    "Rusia":{
+        "1": "Россия"
+    },
+    "France":{
+        "1": "Франция"
+    },
+    "MetaMask":{
+        "1": "Метамаска"
+    },
+    "ConnecttoyourMetaMaskWallet":{
+        "1": "Подключитесь к вашему кошельку MetaMask"
+    },
+    "WalletConnect":{
+        "1": "WalletConnect"
+    },
+    "ScanwithWalletConnecttoconnect":{
+        "1": "Сканируйте с помощью WalletConnect, чтобы подключиться"
+    },
+
+
+
+
+
+    "Approve":{
+        "1": "Одобрить"
+    },
+
+    "SplashNETWORK":{
+        "1": "КАПЕЛЬНАЯ СЕТЬ"
+    },
+    "SplashNetworkisthelatestprojectdevelopedby":{
+        "1": "Всплеск Network - последний проект, разработанный"
+    },
+    "SplassiveTeam":{
+        "1": "Splassive Team"
+    }
+    ,
+    "BB":{
+        "1": "BB"
+    }
+    ,
+    "andteam.":{
+        "1": "и команда."
+    }
+    ,
+    "TheofficialtokenoftheSplashNetworkisSplash(SPLASH)ontheAvalancheChain(AVAX)thatcapturesvaluebybeingscarce,deflationary,censorshipresistant,andbybeingbuiltonarobust,trulydecentralizedblockchain.":{
+        "1": "Официальным токеном Splash Network является Splash (SPLASH) в цепочке Лавина (АВАКС), который обладает ценностью, поскольку является дефицитным, дефляционным, устойчивым к цензуре и построен на надежной, действительно децентрализованной цепочке блоков."
+    },
+    "TherecommendedexchangefortradingSplashistheTheWellcontractwhichcanbefounddirectlyontheplatformswebsiteundertheTheWelltab,asitallowsustowaivetheinitial10%taxonbuysandprovidesthelowestpricesandhighestliquidity,resultinginlessslippageforlargertrades.":{
+        "1": "Рекомендуемая биржа для торговли Splash - это контракт Колодец, который можно найти прямо на веб-сайте платформы под вкладкой своп, поскольку он позволяет нам отказаться от начального 10% налога на покупки и обеспечивает самые низкие цены и максимальную ликвидность, что приводит к меньшему проскальзыванию. для более крупных сделок."
+    },
+    "SelectRandomAddressess":{
+        "1":"Выберите случайные адреса"
+    },
+    "TRADE":{
+        "1": "ТОРГОВЛЯ"
+    },
+    "STAKE":{
+        "1": "СТАВКА"
+    },
+    "LIQUIDITYFARM":{
+        "1": "ФЕРМА ЛИКВИДНОСТИ"
+    },
+    "STATS":{
+        "1": "СТАТИСТИКА"
+    },
+    "TheSplashtokencapturestheentirevalueoftheSplashNetworkandmakesitavailabletotheentireAVAXCommunity":{
+        "1": "Токен Всплеск фиксирует всю ценность сети Всплеск и делает ее доступной для всего сообщества АВАКС."
+    },
+    "Players":{
+        "1": "Игроки"
+    },
+    "count":{
+        "1": "считать"
+    }
+    ,
+    "Maxdailyreturn":{
+        "1": "Максимальная дневная доходность"
+    }
+    ,
+    "Totalsupply":{
+        "1": "Общее предложение"
+    }
+    ,
+    "Splash":{
+        "1": "Всплеск"
+    }
+    ,
+    "Transactions":{
+        "1": "Сделки"
+    }
+    ,
+    "Activity":{
+        "1": "Мероприятия"
+    }
+    ,
+    "From":{
+        "1": "От"
+    }
+    ,
+    "To":{
+        "1": "К"
+    }
+    ,
+    "Amount":{
+        "1": "Количество"
+    }
+    ,
+
+
+
+
+
+
+
+
+
+
+    "TheWell":{
+        "1": "ХОРОШО"
+    }
+    ,
+    "Price":{
+        "1": "Цена"
+    }
+    ,
+    "AVAX/Splash":{
+        "1": "АВАКС / ДРИП"
+    }
+    ,
+    "AVAXBalance":{
+        "1": "Баланс АВАКС"
+    }
+    ,
+    "USDT":{
+        "1": "USDT"
+    },
+    "AVAX":{
+        "1": "АВАКС"
+    }
+    ,
+    "SplashBalance":{
+        "1": "Капельный баланс"
+    }
+
+    ,
+    "BuySplash":{
+        "1": "Купить Всплеск"
+    }
+
+    ,
+    "Slippagetolerance":{
+        "1": "Допуск по проскальзыванию"
+    }
+    ,
+    "Estimatereceived":{
+        "1": "Оценка получена"
+    }
+    ,
+    "Minimumreceived":{
+        "1": "Минимум получен"
+    }
+    ,
+    "Buy":{
+        "1": "Купить"
+    }
+    ,
+    "SELLSplash":{
+        "1": "ПРОДАТЬ КАПЕЛЬ"
+    }
+
+    ,
+    "Max":{
+        "1": "Максимум"
+    }
+    ,
+    "10%Taxisappliedonsells":{
+        "1": "Налог 10% применяется к продажам"
+    }
+    ,
+    "Sell":{
+        "1": "Продавать"
+    }
+    ,
+    "ApproveSplash":{
+        "1": "Утвердить КАПЕЛЬ"
+    }
+    ,
+    "Chart":{
+        "1": "Диаграмма"
+    }
+    ,
+    "Stats":{
+        "1": "Статистика"
+    }
+    ,
+    "TheWellisthebestwaytoexchangevalueintheSplashNetwork!Herearethenumbers":{
+        "1": "Колодец - лучший способ обменять стоимость в сети Всплеск Network! Вот числа"
+    }
+
+    ,
+    "Supply":{
+        "1": "Поставка"
+    }
+    ,
+    "ContractBalance":{
+        "1": "Баланс контракта"
+    }
+    ,
+    "DROPS":{
+        "1": "КАПЛИ"
+    }
+    ,
+    "LOCKED":{
+        "1": "ЗАБЛОКИРОВАНО"
+    },
+    "Tranactions":{
+        "1": "Сделки"
+    }
+
+    ,
+    "Txs":{
+        "1": "Txs"
+    }
+
+    ,
+
+
+
+
+
+
+    "Available":{
+        "1": "Доступный"
+    }
+    ,
+    "Deposit":{
+        "1": "Депозит"
+    }
+    ,
+    "Claimed":{
+        "1": "Заявлено"
+    }
+    ,
+    "Rewarded":{
+        "1": "Награжден"
+    }
+    ,
+    "Direct":{
+        "1": "Прямой"
+    }
+    ,
+    "Indirect":{
+        "1": "Косвенный"
+    }
+    ,
+    "MaxPayout":{
+        "1": "Максимальная выплата"
+    }
+    ,
+    "Team":{
+        "1": "Команда"
+    }
+    ,
+    "Total":{
+        "1": "Всего"
+    }
+    ,
+    "TheSplashNetworksTheTapisalowriskhighrewardcontractthatoperatessimilarlytoahighyieldcertificateofdepositbypayingout1%dailyreturnoninvestmentupto365%.":{
+        "1": "Кран сети Всплеск - это контракт с низким уровнем риска и высоким вознаграждением, который работает аналогично высокодоходному депозитному сертификату, выплачивая 1% ежедневной прибыли на инвестиции до 365%."
+    }
+    ,
+    "Playerscancompoundandextendtheirearningsthroughdeposits,hydrating(compounding)rewardsaswellasthroughteambasedreferrals":{
+        "1": "Игроки могут увеличивать и увеличивать свой заработок за счет депозитов, вознаграждений за счет накопления (начисления), а также за счет командных рефералов."
+    }
+    ,
+    "CopyReferralLink":{
+        "1": "Копировать реферальную ссылку"
+    },
+    "GetSplash":{
+        "1": "Получить капельницу"
+    }
+    ,
+    "Aminimumof1Splashrequiredfordeposits":{
+        "1": "Для внесения депозита требуется минимум 1 Splash."
+    }
+    ,
+    "A10%taxischargedondeposits":{
+        "1": "С залога взимается 10% налог."
+    }
+    ,
+    "HYDRATE":{
+        "1": "ГИДРАТ"
+    }
+    ,
+    "recompound":{
+        "1": "перекомпоновывать"
+    }
+    ,
+    "Claim":{
+        "1": "Требовать"
+    }
+    ,
+    "JoinTheWave":{
+        "1": "Присоединяйтесь к волне"
+    }
+    ,
+    "CurrentWaveStarter":{
+        "1": "Текущий стартер волны"
+    }
+    ,
+    "None":{
+        "1": "Никто"
+    }
+    ,
+    "Manager":{
+        "1": "Управляющий делами"
+    }
+    ,
+    "Beneficiary":{
+        "1": "Бенефициар"
+    }
+    ,
+    "LastCheckin":{
+        "1": "Последняя проверка"
+    }
+    ,
+    "InactivityThreshold":{
+        "1": "Порог бездействия"
+    }
+    ,
+    "WaveStarter":{
+        "1": "Волновой стартер"
+    }
+    ,
+    "Update":{
+        "1": "Обновлять"
+    }
+
+    ,
+    "SupportMarketingandDevelopment":{
+        "1": "Поддержка маркетинга и развития"
+    }
+    ,
+    "CheckoutWhoSplashed":{
+        "1": "Оформить заказ Кто плеснул"
+    }
+    ,
+    "PlayerLookup":{
+        "1": "Поиск игрока"
+    }
+    ,
+    "GO":{
+        "1": "ИДТИ"
+    }
+    ,
+    "PlayerInfo":{
+        "1": "Информация об игроке"
+    }
+    ,
+    "Directs":{
+        "1": "Направляет"
+    }
+    ,
+    "NetDeposits":{
+        "1": "Чистые депозиты"
+    }
+    ,
+    "AirdropSent":{
+        "1": "Отправлено Airdrop"
+    }
+    ,
+    "Received":{
+        "1": "Получила"
+    }
+
+    ,
+    "AirdropLastSent":{
+        "1": "Раздача Последний отправленный"
+    }
+    ,
+    "Never":{
+        "1": "Никогда"
+    }
+    ,
+    "TeamViewer":{
+        "1": "Наблюдатель команды"
+    }
+    ,
+    "TeamAirdrop":{
+        "1": "Команда раздача"
+    }
+    ,
+    "DirectAirdrop":{
+        "1": "Прямая раздача"
+    }
+    ,
+    "Player":{
+        "1": "Игрок"
+    }
+    ,
+    "Usemyaddress":{
+        "1": "Использовать мой адрес"
+    }
+    ,
+    "Viewall":{
+        "1": "Посмотреть все"
+    }
+    ,
+    "Show":{
+        "1": "Показывать"
+    }
+    ,
+    "Campaign":{
+        "1": "Кампания"
+    }
+    ,
+    "Dividebudgetbetweenmatchingplayers":{
+        "1": "Разделите бюджет между подходящими игроками"
+    }
+
+    ,
+    "Rewardsbudgettoonematchingplayer":{
+        "1": "Бюджет вознаграждений одному подходящему игроку"
+    }
+    ,
+    "Dividedbudgetacross5matchingplayers":{
+        "1": "Разделенный бюджет между 5 подходящими игроками"
+    }
+    ,
+    "Dividedbudgetacross20matchingplayers":{
+        "1": "Разделенный бюджет между 20 подходящими игроками"
+    }
+    ,
+    "Dividedbudgetacross50matchingplayers":{
+        "1": "Разделенный бюджет между 50 подходящими игроками"
+    }
+    ,
+    "Dividedbudgetacross100matchingplayers":{
+        "1": "Разделенный бюджет между 100 подходящими игроками"
+    },
+    "Eligiblematchingplayersselectedatrandom":{
+        "1": "Соответствующие подходящие игроки выбираются случайным образом"
+    },
+    "Minimumdirects":{
+        "1": "Минимальные директивы"
+    },
+    "Teamdepth":{
+        "1": "Глубина команды"
+    }
+    ,
+    "Minimumnetdeposits":{
+        "1": "Минимальные чистые депозиты"
+    }
+    ,
+    "Budget":{
+        "1": "Бюджет"
+    }
+    ,
+    "RUN":{
+        "1": "БЕГАТЬ"
+    }
+    ,
+    "Numberofrecipients":{
+        "1": "Количество получателей"
+    }
+    ,
+    "EstimatedSplashperperson":{
+        "1": "Расчетная капля на человека"
+    }
+    ,
+    "SEND":{
+        "1": "ОТПРАВИТЬ"
+    }
+    ,
+    "CampaignConsole":{
+        "1": "Консоль кампании"
+    }
+    ,
+    "CampaignViewer":{
+        "1": "Наблюдатель кампании"
+    }
+    ,
+    "Address":{
+        "1": "Адрес"
+    }
+    ,
+    "Deposits":{
+        "1": "Депозиты"
+    },
+    "Status":{
+        "1": "Статус"
+    },
+    "About":{
+        "1": "О"
+    }
+    ,
+    "PlayerscanparticipatebypurchasingSplashfromtheplatform'sTHEWELLpage,joininganotheruser’sSplashteam(1Splashminimumrequirement)DepositingSplashtotheTheTapcontractearnsaconsistent2%dailyreturnoftheirSplash(365%maximumpayout)passively.Playerscanalsocompoundtheirearningsthroughregulardeposits,rollingrewardsaswellasteambasedreferrals.Unlikemanyotherplatformspromisingaconsistentdaily%return,TheTap'scontractcannotdrainandwillALWAYSbeabletoprovidetheSplashthathasbeenrewarded.Splashrewardscomefroma10%taxonallSplashtransactionsexcludingbuysfromtheplatform'sTHEWELLpage.":{
+        "1": "Игроки могут участвовать, купив Всплеск на странице ХОРОШО платформы, присоединившись к команде Всплеск другого пользователя (минимальное требование 1 Всплеск). Внесение Всплеск в контракт на сборщик дает стабильный ежедневный доход в размере 2% от их Всплеск (максимальная выплата 365%) пассивно. Игроки также могут увеличивать свой доход за счет регулярных депозитов, скользящих вознаграждений, а также командных рефералов. В отличие от многих других платформ, обещающих постоянную ежедневную процентную доходность, контракт Кран не может истощать и ВСЕГДА будет иметь возможность предоставить Всплеск, который был вознагражден. Вознаграждения Всплеск образуются из 10% налога на все транзакции Всплеск, за исключением покупок со страницы ХОРОШО платформы."
+    }
+    ,
+    "IfthereiseverasituationwherethetaxpoolisnotenoughtopaySplashrewardsnewSplashwillbemintedtoensurerewardsarepaidout.GiventhegametheorybehindtheSplashnetwork,theprobabilitythatthesystemwillneedtomintnewSplashtopayrewardsisextremelylow.SinceSplashdepositedintoTheTaparesenttoaburnaddressandSplashisconstantlybeinglockedintheliquiditypoolthroughtheTheShorecontract,SplashistheonlydeflationarydailyROIplatform.ThebeststrategyforSplashistofocusonrealworldadoptionbybuildingoutyourteamthroughdirectreferrals,asyouwillreceivebonusrewardsfromreferralsontheirdepositsanddownlinebonusesfromplayerstheyreferbasedontheamountofSplashDAOheldinyourwallet":{
+        "1": "Если когда-либо возникнет ситуация, когда налогового пула будет недостаточно для выплаты вознаграждений Всплеск, будет создан новый Всплеск для обеспечения выплаты вознаграждений. Учитывая теорию игр, лежащую в основе сети Всплеск, вероятность того, что системе потребуется чеканить новый Всплеск для выплаты вознаграждений, чрезвычайно мала. Поскольку Всплеск, депонированные в Кран, отправляются на адрес записи, а Всплеск постоянно блокируется в пуле ликвидности через контракт на резервуар, Всплеск является единственной дефляционной платформой для ежедневного возврата инвестиций. Лучшая стратегия для Всплеск - сосредоточиться на внедрении в реальном мире, создавая свою команду за счет прямых рефералов, поскольку вы будете получать бонусные вознаграждения от рефералов на их депозиты и бонусы нижестоящих от игроков, которых они рекомендуют, в зависимости от суммы Всплеск DAO, хранящейся в вашем кошельке."
+    }
+    ,
+
+
+
+
+    "Rewards":{
+        "1": "Награды"
+    }
+    ,
+    "TotalDROPS":{
+        "1": "Всего ДРОПОВ"
+    }
+    ,
+    "DROP":{
+        "1": "УРОНИТЬ"
+    }
+    ,
+    "Stake":{
+        "1": "Ставка"
+    }
+
+    ,
+    "Compounds":{
+        "1": "Соединения"
+    }
+    ,
+    "Count":{
+        "1": "Считать"
+    }
+    ,
+    "TotalWithdrawn":{
+        "1": "Всего снято"
+    }
+    ,
+    "CompoundedTotal":{
+        "1": "Сложный итог"
+    }
+
+    ,
+    "TheShoreisTheSplashNetwork’ssolutionforplayersthatwantbenefitfromnon-inflationaryyieldfarmingthroughaddingliquiditytoSplash":{
+        "1": "Резервуар - это решение Всплеск Network для игроков, которые хотят получить выгоду от неинфляционного выращивания урожая за счет добавления ликвидности к Всплеск."
+    }
+    ,
+    "COMPOUND":{
+        "1": "СЛОЖНЫЙ"
+    }
+    ,
+    "CLAIM":{
+        "1": "ТРЕБОВАТЬ"
+    }
+    ,
+    "BuyandDeposit":{
+        "1": "Купить и внести"
+    }
+
+    ,
+    "Estimated":{
+        "1": "Оцененный"
+    },
+    "BUY":{
+        "1": "КУПИТЬ"
+    }
+
+    ,
+    "Withdraw":{
+        "1": "Изымать"
+    },
+    "DropBalance":{
+        "1": "Уронить Остаток средств"
+    },
+    "TheShoreisTheSplashNetwork’ssolutionforplayersthatwantbenefitfromnoninflationaryyieldfarmingthroughaddingliquiditytoSplash.Herearethenumbers":{
+        "1": "Резервуар - это решение Всплеск Network для игроков, которые хотят получить выгоду от неинфляционного выращивания урожая за счет добавления ликвидности к Всплеск. Вот числа"
+    }
+    ,
+    "UserCount":{
+        "1": "Количество пользователей"
+    }
+    ,
+    "TotalValueLocked":{
+        "1": "Общая стоимость заблокирована"
+    }
+    ,
+    "DividendPool":{
+        "1": "Дивидендный пул"
+    }
+    ,
+    "JoinusonTelegram":{
+        "1": "Присоединяйтесь к нам в Telegram"
+    },
+    "JoinusTwiter":{
+        "1": "Присоединяйтесь к нам в Twitter"
+    },
+
+
+
+
+
+
+
+    "BuySplash":{
+        "1": "Купить всплеск"
+    }
+    ,
+    "SplassivePresaleDetails":{
+        "1": "Детали предварительной продажи Splassive"
+    }
+    ,
+    "WalletMustbewhitelist":{
+        "1": "Кошелек должен быть в белом списке"
+    }
+    ,
+    "PresalePrice0.00605AVAX":{
+        "1": "Предпродажная цена 0,00605 AVAX"
+    }
+    ,
+    "ListingPrice0.03025AVAX":{
+        "1": "Цена листинга 0,03025 AVAX"
+    }
+    ,
+    "Max5AVAXperWallet":{
+        "1": "Максимум 5 AVAX на кошелек"
+    }
+    ,
+    "PresaleContractBalance":{
+        "1": "Предпродажный баланс контракта"
+    }
+    ,
+    "ContractBalance":{
+        "1": "Баланс контракта"
+    }
+    ,
+    "HARDCAP650AVAX":{
+        "1": "ЖЕСТКАЯ КРЫШКА 650 AVAX"
+    }
+    ,
+    "SOFTCAP360AVAX":{
+        "1": "МЯГКАЯ КЕПКА 360 AVAX"
+    }
+    ,
+    "PreSale":{
+        "1": "Предпродажа"
+    }
+    ,
+    "EstimatereceivedSplash":{
+        "1": "Эстимейт получен"
+    }
+    ,
+    "BUYAVAX":{
+        "1": "КУПИТЬ АВАКС"
+    }
+    ,
+    "ADMINPANEL":{
+        "1": "ПАНЕЛЬ АДМИНИСТРАТОРА"
+    }
+    ,
+    "AddAddressToWhiteList":{
+        "1": "Добавить адрес в белый список"
+    }
+    ,
+    "RemoveAddressFromWhitelist":{
+        "1": "Удалить адрес из белого списка"
+    }
+
+
+}

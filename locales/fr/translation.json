@@ -1,0 +1,698 @@
+{
+    "SWAP":{
+        "1": "ÉCHANGER"
+    },
+    "THETAP":{
+        "1": "LE ROBINET"
+    },
+    "THESHORE":{
+        "1": "Il y avait des bruits"
+    },
+    "Whitepaper":{
+        "1": "Papier blanc"
+    },
+    "SplashDAO":{
+        "1": "Éclaboussure DAO"
+    },
+    "Tutorial":{
+        "1": "Didacticiel"
+    },
+    "English":{
+        "1": "Anglaise"
+    },
+    "China":{
+        "1": "Chine"
+    },
+    "Korea":{
+        "1": "Corée"
+    },
+    "Spain":{
+        "1": "Espagne"
+    },
+    "Rusia":{
+        "1": "Russie"
+    },
+    "France":{
+        "1": "La France"
+    },
+    "MetaMask":{
+        "1": "MetaMasque"
+    },
+    "ConnecttoyourMetaMaskWallet":{
+        "1": "Connectez-vous à votre portefeuille MetaMask"
+    },
+    "WalletConnect":{
+        "1": "Connexion au portefeuille"
+    },
+    "ScanwithWalletConnecttoconnect":{
+        "1": "Scannez avec WalletConnect pour vous connecter"
+    },
+
+
+
+
+
+    "Approve":{
+        "1": "Approuver"
+    },
+
+    "SplashNETWORK":{
+        "1": "RÉSEAU Éclaboussure À Éclaboussure"
+    },
+    "SplashNetworkisthelatestprojectdevelopedby":{
+        "1": "Éclaboussure Network est le dernier projet développé par"
+    },
+    "SplassiveTeam":{
+        "1": "Équipe Splassive"
+    }
+    ,
+    "BB":{
+        "1": "BB"
+    }
+    ,
+    "andteam.":{
+        "1": "et équipe."
+    },
+    "TheofficialtokenoftheSplashNetworkisSplash(SPLASH)ontheAvalancheChain(AVAX)thatcapturesvaluebybeingscarce,deflationary,censorshipresistant,andbybeingbuiltonarobust,trulydecentralizedblockchain.":{
+        "1": "Le jeton officiel du Splash Network est Splash (SPLASH) sur la chaîne avalanche (AVAX) qui capture de la valeur en étant rare, déflationniste, résistant à la censure et en étant construit sur une blockchain robuste et véritablement décentralisée."
+    },
+    "SelectRandomAddressess":{
+        "1":"Sélectionnez des adresses aléatoires"
+    },
+    "TherecommendedexchangefortradingSplashistheTheWellcontractwhichcanbefounddirectlyontheplatformswebsiteundertheTheWelltab,asitallowsustowaivetheinitial10%taxonbuysandprovidesthelowestpricesandhighestliquidity,resultinginlessslippageforlargertrades.":{
+        "1": "L'échange recommandé pour le trading de Éclaboussure est le contrat Le puits qui peut être trouvé directement sur le site Web des plateformes sous l'onglet KAIVO, car il nous permet de renoncer à la taxe initiale de 10 % sur les achats et fournit les prix les plus bas et la liquidité la plus élevée, ce qui entraîne moins de glissement pour les métiers plus importants."
+    },
+    "TRADE":{
+        "1": "COMMERCE"
+    },
+    "STAKE":{
+        "1": "PIEU"
+    },
+    "LIQUIDITYFARM":{
+        "1": "FERME DE LIQUIDITÉ"
+    },
+    "STATS":{
+        "1": "STATISTIQUES"
+    },
+    "TheSplashtokencapturestheentirevalueoftheSplashNetworkandmakesitavailabletotheentireAVAXCommunity":{
+        "1": "Le jeton Éclaboussure capture toute la valeur du réseau Éclaboussure et le met à la disposition de l'ensemble de la communauté AVAX"
+    },
+    "Players":{
+        "1": "Joueuses"
+    },
+    "count":{
+        "1": "compter"
+    }
+    ,
+    "Maxdailyreturn":{
+        "1": "Rendement journalier maximum"
+    }
+    ,
+    "Totalsupply":{
+        "1": "Éclaboussure"
+    }
+    ,
+    "Splash":{
+        "1": "Splash"
+    }
+    ,
+    "Transactions":{
+        "1": "Transactions"
+    }
+    ,
+    "Activity":{
+        "1": "Activité"
+    }
+    ,
+    "From":{
+        "1": "À partir de"
+    }
+    ,
+    "To":{
+        "1": "À"
+    }
+    ,
+    "Amount":{
+        "1": "Montante"
+    }
+    ,
+
+
+
+
+
+
+
+
+
+
+    "TheWell":{
+        "1": "Le puits"
+    }
+    ,
+    "Price":{
+        "1": "Prix"
+    }
+    ,
+    "AVAX/Splash":{
+        "1": "AVAX/Éclaboussure"
+    }
+    ,
+    "AVAXBalance":{
+        "1": "Solde en AVAX"
+    }
+    ,
+    "USDT":{
+        "1": "USDT"
+    },
+    "AVAX":{
+        "1": "AVAX"
+    }
+    ,
+    "SplashBalance":{
+        "1": "Solde Éclaboussure à Éclaboussure"
+    }
+
+    ,
+    "BuySplash":{
+        "1": "Acheter Éclaboussure"
+    }
+
+    ,
+    "Slippagetolerance":{
+        "1": "Tolérance au glissement"
+    }
+    ,
+    "Estimatereceived":{
+        "1": "Estimation reçue"
+    }
+    ,
+    "Minimumreceived":{
+        "1": "Minimum reçu"
+    }
+    ,
+    "Buy":{
+        "1": "Acheter"
+    }
+    ,
+    "SELLSplash":{
+        "1": "VENDRE Éclaboussure"
+    }
+
+    ,
+    "Max":{
+        "1": "Max"
+    }
+    ,
+    "10%Taxisappliedonsells":{
+        "1": "Une taxe de 10 % est appliquée sur les ventes"
+    }
+    ,
+    "Sell":{
+        "1": "Vendre"
+    }
+    ,
+    "ApproveSplash":{
+        "1": "Approuver le Éclaboussure"
+    }
+    ,
+    "Chart":{
+        "1": "Graphique"
+    }
+    ,
+    "Stats":{
+        "1": "Statistiques"
+    }
+    ,
+    "TheWellisthebestwaytoexchangevalueintheSplashNetwork!Herearethenumbers":{
+        "1": "La fontaine est le meilleur moyen d'échanger de la valeur dans le réseau Éclaboussure ! voici les chiffres"
+    }
+
+    ,
+    "Supply":{
+        "1": "Fournir"
+    }
+    ,
+    "ContractBalance":{
+        "1": "Solde du contrat"
+    }
+    ,
+    "DROPS":{
+        "1": "ÉclaboussureS"
+    }
+    ,
+    "LOCKED":{
+        "1": "FERMÉ À CLÉ"
+    },
+    "Tranactions":{
+        "1": "Transactions"
+    }
+
+    ,
+    "Txs":{
+        "1": "Txs"
+    }
+
+    ,
+
+
+
+
+
+
+    "Available":{
+        "1": "Disponible"
+    }
+    ,
+    "Deposit":{
+        "1": "Dépôt"
+    }
+    ,
+    "Claimed":{
+        "1": "Revendiqué"
+    }
+    ,
+    "Rewarded":{
+        "1": "Récompensé"
+    }
+    ,
+    "Direct":{
+        "1": "Direct"
+    }
+    ,
+    "Indirect":{
+        "1": "Indirecte"
+    }
+    ,
+    "MaxPayout":{
+        "1": "Paiement maximum"
+    }
+    ,
+    "Team":{
+        "1": "Équipe"
+    }
+    ,
+    "Total":{
+        "1": "Le total"
+    }
+    ,
+    "Splassive’sTheTapisalowrisk,highrewardcontractthatoperatessimilarlytoahighyieldcertificateofdepositbypayingout2%dailyreturnoninvestmentupto360%.":{
+        "1": "Splassive's Le robinet est un contrat à faible risque et à haute récompense qui fonctionne de la même manière qu'un certificat de dépôt à haut rendement en versant un retour sur investissement quotidien de 2% jusqu'à 360%."
+    }
+    ,
+    "Playerscancompoundandextendtheirearningsthroughdeposits,hydrating(compounding)rewardsaswellasthroughteambasedreferrals.":{
+        "1": "Les joueurs peuvent composer et étendre leurs gains par le biais de dépôts, de récompenses hydratantes (composantes) ainsi que par le biais de références basées sur l'équipe."
+    }
+    ,
+    "CopyReferralLink":{
+        "1": "Copier le lien de parrainage"
+    },
+    "GetSplash":{
+        "1": "Obtenez Éclaboussure"
+    }
+    ,
+    "Aminimumof1Splashrequiredfordeposits":{
+        "1": "Un minimum de 1 Splash requis pour les dépôts"
+    }
+    ,
+    "A10%taxischargedondeposits":{
+        "1": "Une taxe de 10% est prélevée sur les acomptes"
+    }
+    ,
+    "HYDRATE":{
+        "1": "HYDRATER"
+    }
+    ,
+    "recompound":{
+        "1": "recomposer"
+    }
+    ,
+    "Claim":{
+        "1": "Réclamer"
+    }
+    ,
+    "JoinTheWave":{
+        "1": "Rejoignez la vague"
+    }
+    ,
+    "CurrentWaveStarter":{
+        "1": "Démarreur de vague actuelle"
+    }
+    ,
+    "None":{
+        "1": "Rien"
+    }
+    ,
+    "Manager":{
+        "1": "Directrice"
+    }
+    ,
+    "Beneficiary":{
+        "1": "Bénéficiaire"
+    }
+    ,
+    "LastCheckin":{
+        "1": "Dernier enregistrement"
+    }
+    ,
+    "InactivityThreshold":{
+        "1": "Seuil d'inactivité"
+    }
+    ,
+    "WaveStarter":{
+        "1": "Démarreur de vague"
+    }
+    ,
+    "Update":{
+        "1": "Copine"
+    }
+
+    ,
+    "SupportMarketingandDevelopment":{
+        "1": "Soutenir le marketing et le développement"
+    }
+    ,
+    "CheckoutWhoSplashed":{
+        "1": "Vérifier qui a éclaboussé"
+    }
+    ,
+    "PlayerLookup":{
+        "1": "Recherche de joueur"
+    }
+    ,
+    "GO":{
+        "1": "ALLER"
+    }
+    ,
+    "PlayerInfo":{
+        "1": "Informations sur le joueur"
+    }
+    ,
+    "Directs":{
+        "1": "Dirige"
+    }
+    ,
+    "NetDeposits":{
+        "1": "Dépôts nets"
+    }
+    ,
+    "AirdropSent":{
+        "1": "Airdrop envoyé"
+    }
+    ,
+    "Received":{
+        "1": "A reçu"
+    }
+
+    ,
+    "AirdropLastSent":{
+        "1": "Dernier envoi d'Airdrop"
+    }
+    ,
+    "Never":{
+        "1": "Jamais"
+    }
+    ,
+    "TeamViewer":{
+        "1": "Visionneuse d'équipe"
+    }
+    ,
+    "TeamAirdrop":{
+        "1": "Largage d'équipe"
+    }
+    ,
+    "DirectAirdrop":{
+        "1": "Largage direct"
+    }
+    ,
+    "Player":{
+        "1": "Joueuse"
+    }
+    ,
+    "Usemyaddress":{
+        "1": "Utiliser mon adresse"
+    }
+    ,
+    "Viewall":{
+        "1": "Voir tout"
+    }
+    ,
+    "Show":{
+        "1": "Montrer"
+    }
+    ,
+    "Campaign":{
+        "1": "Campagne"
+    }
+    ,
+    "Dividebudgetbetweenmatchingplayers":{
+        "1": "Répartir le budget entre les joueurs correspondants"
+    }
+
+    ,
+    "Rewardsbudgettoonematchingplayer":{
+        "1": "Budget de récompenses pour un joueur correspondant"
+    }
+    ,
+    "Dividedbudgetacross5matchingplayers":{
+        "1": "Budget divisé entre 5 joueurs correspondants"
+    }
+    ,
+    "Dividedbudgetacross20matchingplayers":{
+        "1": "Budget divisé entre 20 joueurs correspondants"
+    }
+    ,
+    "Dividedbudgetacross50matchingplayers":{
+        "1": "Budget divisé entre 50 joueurs correspondants"
+    }
+    ,
+    "Dividedbudgetacross100matchingplayers":{
+        "1": "Budget divisé entre 100 joueurs correspondants"
+    },
+    "Eligiblematchingplayersselectedatrandom":{
+        "1": "Joueurs correspondants éligibles sélectionnés au hasard"
+    },
+    "Minimumdirects":{
+        "1": "Minimum de directs"
+    },
+    "Teamdepth":{
+        "1": "Profondeur de l'équipe"
+    }
+    ,
+    "Minimumnetdeposits":{
+        "1": "Dépôts nets minimaux"
+    }
+    ,
+    "Budget":{
+        "1": "Budget"
+    }
+    ,
+    "RUN":{
+        "1": "COURS"
+    }
+    ,
+    "Numberofrecipients":{
+        "1": "Nombre de destinataires"
+    }
+    ,
+    "EstimatedSplashperperson":{
+        "1": "Éclaboussure à Éclaboussure estimée par personne"
+    }
+    ,
+    "SEND":{
+        "1": "ENVOYER"
+    }
+    ,
+    "CampaignConsole":{
+        "1": "Console de campagne"
+    }
+    ,
+    "CampaignViewer":{
+        "1": "Visionneuse de campagne"
+    }
+    ,
+    "Address":{
+        "1": "Adresse"
+    }
+    ,
+    "Deposits":{
+        "1": "Dépôts"
+    },
+    "Status":{
+        "1": "Statut"
+    },
+    "About":{
+        "1": "Sur"
+    }
+    ,
+    "PlayerscanparticipatebypurchasingSplashfromtheplatform'sTheWellpage,joininganotheruser’sSplashteam(1Splashminimumrequirement)DepositingSplashtotheTheTapcontractearnsaconsistent2%dailyreturnoftheirSplash(365%maximumpayout)passively.Playerscanalsocompoundtheirearningsthroughregulardeposits,rollingrewardsaswellasteambasedreferrals.Unlikemanyotherplatformspromisingaconsistentdaily%return,TheTap'scontractcannotdrainandwillALWAYSbeabletoprovidetheSplashthathasbeenrewarded.Splashrewardscomefroma10%taxonallSplashtransactionsexcludingbuysfromtheplatform'sTheWellpage.":{
+        "1": "Les joueurs peuvent participer en achetant le Éclaboussure à partir de la page KAIVO de la plate-forme, en rejoignant 2'équipe Éclaboussure d'un autre utilisateur (exigence minimale de 1 Éclaboussure). Les joueurs peuvent également augmenter leurs gains grâce à des dépôts réguliers, des récompenses glissantes ainsi que des références basées sur l'équipe. Contrairement à de nombreuses autres plates-formes promettant un pourcentage de rendement quotidien constant, le contrat de Le robinet ne peut pas s'écouler et sera TOUJOURS en mesure de fournir le Éclaboussure qui a été récompensé. Les récompenses Éclaboussure proviennent d'une taxe de 10 % sur toutes les transactions Éclaboussure, à l'exclusion des achats effectués sur la page KAIVO de la plate-forme."
+    }
+    ,
+    "IfthereiseverasituationwherethetaxpoolisnotenoughtopaySplashrewardsnewSplashwillbemintedtoensurerewardsarepaidout.GiventhegametheorybehindtheSplashnetwork,theprobabilitythatthesystemwillneedtomintnewSplashtopayrewardsisextremelylow.SinceSplashdepositedintoTheTaparesenttoaburnaddressandSplashisconstantlybeinglockedintheliquiditypoolthroughtheTheShorecontract,SplashistheonlydeflationarydailyROIplatform.ThebeststrategyforSplashistofocusonrealworldadoptionbybuildingoutyourteamthroughdirectreferrals,asyouwillreceivebonusrewardsfromreferralsontheirdepositsanddownlinebonusesfromplayerstheyreferbasedontheamountofSplashDAOheldinyourwallet":{
+        "1": "Si jamais il y a une situation où le pool fiscal n'est pas suffisant pour payer les récompenses du RRD, un nouveau RRD sera créé pour garantir le paiement des récompenses. Compte tenu de la théorie des jeux derrière le réseau Éclaboussure, la probabilité que le système ait besoin de créer un nouveau Éclaboussure pour payer les récompenses est extrêmement faible. Étant donné que les Éclaboussure déposés dans Le robinet sont envoyés à une adresse de brûlage et que les Éclaboussure sont constamment bloqués dans le pool de liquidités via le contrat de réservoir, Éclaboussure est la seule plate-forme déflationniste de retour sur investissement quotidien. La meilleure stratégie pour Éclaboussure est de se concentrer sur l'adoption dans le monde réel en construisant votre équipe grâce à des références directes, car vous recevrez des récompenses bonus des références sur leurs dépôts et des bonus de descendance des joueurs qu'ils réfèrent en fonction du montant de Éclaboussure DAO détenu dans votre portefeuille."
+    }
+    ,
+
+
+
+
+    "Rewards":{
+        "1": "Récompenses"
+    }
+    ,
+    "TotalDROPS":{
+        "1": "ÉclaboussureS totales"
+    }
+    ,
+    "DROP":{
+        "1": "TOMBER"
+    }
+    ,
+    "Stake":{
+        "1": "Pieu"
+    }
+
+    ,
+    "Compounds":{
+        "1": "Composés"
+    }
+    ,
+    "Count":{
+        "1": "Compter"
+    }
+    ,
+    "TotalWithdrawn":{
+        "1": "Total retiré"
+    }
+    ,
+    "CompoundedTotal":{
+        "1": "Total composé"
+    }
+
+    ,
+    "TheShoreisTheSplashNetwork’ssolutionforplayersthatwantbenefitfromnon-inflationaryyieldfarmingthroughaddingliquiditytoSplash":{
+        "1": "The Shore est la solution de The Éclaboussure Network pour les joueurs qui souhaitent bénéficier d'une agriculture à rendement non inflationniste en ajoutant des liquidités à Éclaboussure"
+    }
+    ,
+    "COMPOUND":{
+        "1": "COMPOSÉE"
+    }
+    ,
+    "CLAIM":{
+        "1": "RÉCLAMER"
+    }
+    ,
+    "BuyandDeposit":{
+        "1": "Acheter et déposer"
+    }
+
+    ,
+    "Estimated":{
+        "1": "Estimé"
+    },
+    "BUY":{
+        "1": "ACHETER"
+    }
+
+    ,
+    "Withdraw":{
+        "1": "Retirer"
+    },
+    "DropBalance":{
+        "1": "Baisser le solde"
+    },
+    "TheShoreisTheSplashNetwork’ssolutionforplayersthatwantbenefitfromnoninflationaryyieldfarmingthroughaddingliquiditytoSplash.Herearethenumbers":{
+        "1": "The Shore est la solution du réseau Éclaboussure pour les joueurs qui souhaitent bénéficier d'une agriculture à rendement non inflationniste en ajoutant des liquidités au Éclaboussure. voici les chiffres"
+    }
+    ,
+    "UserCount":{
+        "1": "Nombre d'utilisateurs"
+    }
+    ,
+    "TotalValueLocked":{
+        "1": "Valeur totale verrouillée"
+    }
+    ,
+    "DividendPool":{
+        "1": "Pool de dividendes"
+    }
+    ,
+    "JoinusonTelegram":{
+        "1": "Rejoignez-nous sur Telegram"
+    },
+    "JoinusTwiter":{
+        "1": "Rejoignez-nous Twitter"
+    },
+
+
+
+
+
+
+
+    "BuySplash":{
+        "1": "AcheterSplash"
+    }
+    ,
+    "SplassivePresaleDetails":{
+        "1": "Détails de la prévente Splastive"
+    }
+    ,
+    "WalletMustbewhitelist":{
+        "1": "Le portefeuille doit figurer sur la liste blanche"
+    }
+    ,
+    "PresalePrice0.00605AVAX":{
+        "1": "Prix ​​de prévente 0.00605 AVAX"
+    }
+    ,
+    "ListingPrice0.03025AVAX":{
+        "1": "Prix ​​d'inscription 0,03025 AVAX"
+    }
+    ,
+    "Max5AVAXperWallet":{
+        "1": "Max 5 AVAX par portefeuille"
+    }
+    ,
+    "PresaleContractBalance":{
+        "1": "Solde du contrat de prévente"
+    }
+    ,
+    "ContractBalance":{
+        "1": "Solde du contrat"
+    }
+    ,
+    "HARDCAP650AVAX":{
+        "1": "CAPUCHON RIGIDE 650 AVAX"
+    }
+    ,
+    "SOFTCAP360AVAX":{
+        "1": "CASQUETTE SOUPLE 360 AVAX"
+    }
+    ,
+    "PreSale":{
+        "1": "Prévente"
+    }
+    ,
+    "EstimatereceivedSplash":{
+        "1": "Devis reçu Splash"
+    }
+    ,
+    "BUYAVAX":{
+        "1": "ACHETER AVAX"
+    }
+    ,
+    "ADMINPANEL":{
+        "1": "PANNEAU D'ADMINISTRATION"
+    }
+    ,
+    "AddAddressToWhiteList":{
+        "1": "Ajouter une adresse à la liste blanche"
+    }
+    ,
+    "RemoveAddressFromWhitelist":{
+        "1": "Supprimer l'adresse de la liste blanche"
+    }
+
+}

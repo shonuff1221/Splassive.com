@@ -1,0 +1,698 @@
+{
+    "SWAP":{
+        "1": "交换"
+    },
+    "THETAP":{
+        "1": "水龙头"
+    },
+    "THESHORE":{
+        "1": "有噪音"
+    },
+    "Whitepaper":{
+        "1": "白皮书"
+    },
+    "SplashDAO":{
+        "1": "飞溅DAO"
+    },
+    "Tutorial":{
+        "1": "教程"
+    },
+    "English":{
+        "1": "英语"
+    },
+    "China":{
+        "1": "中国"
+    },
+    "Korea":{
+        "1": "韩国"
+    },
+    "Spain":{
+        "1": "西班牙"
+    },
+    "Rusia":{
+        "1": "俄罗斯"
+    },
+    "France":{
+        "1": "法国"
+    },
+    "MetaMask":{
+        "1": "元掩码"
+    },
+    "ConnecttoyourMetaMaskWallet":{
+        "1": "连接到您的 MetaMask 钱包"
+    },
+    "WalletConnect":{
+        "1": "钱包连接"
+    },
+    "ScanwithWalletConnecttoconnect":{
+        "1": "使用 WalletConnect 扫描连接"
+    },
+
+
+
+
+
+
+    "Approve":{
+        "1": "批准"
+    },
+    "SplashNETWORK":{
+        "1": "溅灌网络"
+    },
+    "SplashNetworkisthelatestprojectdevelopedby":{
+        "1": "溅 Network 是 溅 Network 开发的最新项目"
+    },
+    "SplassiveTeam":{
+        "1": "分裂团队"
+    }
+    ,
+    "BB":{
+        "1": "BB"
+    }
+    ,
+    "andteam.":{
+        "1": "和团队."
+    },
+    "TheofficialtokenoftheSplashNetworkisSplash(SPLASH)ontheAvalancheChain(AVAX)thatcapturesvaluebybeingscarce,deflationary,censorshipresistant,andbybeingbuiltonarobust,trulydecentralizedblockchain.":{
+        "1": "Splash Network 的官方代币是 雪崩 链 (溅) 上的 Splash (AVAX)，它通过稀缺、通缩、抗审查以及建立在强大、真正去中心化的区块链上来获取价值。"
+    },
+    "SelectRandomAddressess":{
+        "1":"選擇隨機地址"
+    },
+    "TherecommendedexchangefortradingSplashistheTheWellcontractwhichcanbefounddirectlyontheplatformswebsiteundertheTheWelltab,asitallowsustowaivetheinitial10%taxonbuysandprovidesthelowestpricesandhighestliquidity,resultinginlessslippageforlargertrades.":{
+        "1": "推荐的 溅 交易交易所是 井 合约，可以直接在平台网站的掉期选项卡下找到，因为它允许我们免除最初 10% 的买入税，并提供最低的价格和最高的流动性，从而减少滑点对于较大的交易"
+    },
+    "TRADE":{
+        "1": "贸易"
+    },
+    "STAKE":{
+        "1": "赌注"
+    },
+    "LIQUIDITYFARM":{
+        "1": "流动农场"
+    },
+    "STATS":{
+        "1": "统计数据"
+    },
+    "TheSplashtokencapturestheentirevalueoftheSplashNetworkandmakesitavailabletotheentireAVAXCommunity":{
+        "1": "溅 代币捕获了 溅 Network 的全部价值，并使其可供整个 AVAX 社区使用"
+    },
+    "Players":{
+        "1": "球员"
+    },
+    "count":{
+        "1": "数数"
+    }
+    ,
+    "Maxdailyreturn":{
+        "1": "最大每日回报"
+    }
+    ,
+    "Totalsupply":{
+        "1": "总供应量"
+    }
+    ,
+    "Splash":{
+        "1": "溅"
+    }
+    ,
+    "Transactions":{
+        "1": "交易"
+    }
+    ,
+    "Activity":{
+        "1": "活动"
+    }
+    ,
+    "From":{
+        "1": "从"
+    }
+    ,
+    "To":{
+        "1": "到"
+    }
+    ,
+    "Amount":{
+        "1": "数量"
+    }
+    ,
+
+
+
+
+
+
+
+
+
+
+    "TheWell":{
+        "1": "井"
+    }
+    ,
+    "Price":{
+        "1": "价格"
+    }
+    ,
+    "AVAX/Splash":{
+        "1": "AVAX/溅溅"
+    }
+    ,
+    "AVAXBalance":{
+        "1": "AVAX 余额"
+    }
+    ,
+    "USDT":{
+        "1": "USDT"
+    },
+    "AVAX":{
+        "1": "AVAX"
+    }
+    ,
+    "SplashBalance":{
+        "1": "溅水平衡"
+    }
+
+    ,
+    "BuySplash":{
+        "1": "购买溅溅"
+    }
+
+    ,
+    "Slippagetolerance":{
+        "1": "滑点公差"
+    }
+    ,
+    "Estimatereceived":{
+        "1": "估计收到"
+    }
+    ,
+    "Minimumreceived":{
+        "1": "最低收到"
+    }
+    ,
+    "Buy":{
+        "1": "买"
+    }
+    ,
+    "SELLSplash":{
+        "1": "卖溅"
+    }
+
+    ,
+    "Max":{
+        "1": "最大限度"
+    }
+    ,
+    "10%Taxisappliedonsells":{
+        "1": "对销售征收 10% 的税"
+    }
+    ,
+    "Sell":{
+        "1": "卖"
+    }
+    ,
+    "ApproveSplash":{
+        "1": "批准溅溅"
+    }
+    ,
+    "Chart":{
+        "1": "图表"
+    }
+    ,
+    "Stats":{
+        "1": "统计数据"
+    }
+    ,
+    "TheWellisthebestwaytoexchangevalueintheSplashNetwork!Herearethenumbers":{
+        "1": "井是溅 Network中最好的价值交换方式！这是数字"
+    }
+
+    ,
+    "Supply":{
+        "1": "供应"
+    }
+    ,
+    "ContractBalance":{
+        "1": "合约余额"
+    }
+    ,
+    "DROPS":{
+        "1": "溅溅"
+    }
+    ,
+    "LOCKED":{
+        "1": "锁定"
+    },
+    "Tranactions":{
+        "1": "交易"
+    }
+
+    ,
+    "Txs":{
+        "1": "发送"
+    }
+
+    ,
+
+
+
+
+
+
+    "Available":{
+        "1": "可用的"
+    }
+    ,
+    "Deposit":{
+        "1": "订金"
+    }
+    ,
+    "Claimed":{
+        "1": "声称"
+    }
+    ,
+    "Rewarded":{
+        "1": "有奖"
+    }
+    ,
+    "Direct":{
+        "1": "直接的"
+    }
+    ,
+    "Indirect":{
+        "1": "间接"
+    }
+    ,
+    "MaxPayout":{
+        "1": "最大支出"
+    }
+    ,
+    "Team":{
+        "1": "团队"
+    }
+    ,
+    "Total":{
+        "1": "全部的"
+    }
+    ,
+    "Splassive’sTheTapisalowrisk,highrewardcontractthatoperatessimilarlytoahighyieldcertificateofdepositbypayingout2%dailyreturnoninvestmentupto360%.":{
+        "1": "Splasive 的水龙头是一种低风险、高回报的合约，其运作方式类似于高收益存款证，每天支付 2% 的投资回报率，最高可达 360%。"
+    }
+    ,
+    "Playerscancompoundandextendtheirearningsthroughdeposits,hydrating(compounding)rewardsaswellasthroughteambasedreferrals.":{
+        "1": "玩家可以通过存款、补水（复合）奖励以及基于团队的推荐来复合和扩大他们的收入"
+    }
+    ,
+    "CopyReferralLink":{
+        "1": "复制推荐链接"
+    },
+    "GetSplash":{
+        "1": "获取溅水"
+    }
+    ,
+    "Aminimumof1Splashrequiredfordeposits":{
+        "1": "存款至少需要 1 个 Splash"
+    }
+    ,
+    "A10%taxischargedondeposits":{
+        "1": "存款需缴纳 10% 的税"
+    }
+    ,
+    "HYDRATE":{
+        "1": "水合物"
+    }
+    ,
+    "recompound":{
+        "1": "复合"
+    }
+    ,
+    "Claim":{
+        "1": "宣称"
+    }
+    ,
+    "JoinTheWave":{
+        "1": "加入浪潮"
+    }
+    ,
+    "CurrentWaveStarter":{
+        "1": "电流波启动器"
+    }
+    ,
+    "None":{
+        "1": "没有任何"
+    }
+    ,
+    "Manager":{
+        "1": "经理"
+    }
+    ,
+    "Beneficiary":{
+        "1": "受益人"
+    }
+    ,
+    "LastCheckin":{
+        "1": "上次签到"
+    }
+    ,
+    "InactivityThreshold":{
+        "1": "不活动阈值"
+    }
+    ,
+    "WaveStarter":{
+        "1": "波启动器"
+    }
+    ,
+    "Update":{
+        "1": "更新"
+    }
+
+    ,
+    "SupportMarketingandDevelopment":{
+        "1": "支持营销和发展"
+    }
+    ,
+    "CheckoutWhoSplashed":{
+        "1": "结帐谁溅"
+    }
+    ,
+    "PlayerLookup":{
+        "1": "玩家查找"
+    }
+    ,
+    "GO":{
+        "1": "去"
+    }
+    ,
+    "PlayerInfo":{
+        "1": "玩家信息"
+    }
+    ,
+    "Directs":{
+        "1": "指导"
+    }
+    ,
+    "NetDeposits":{
+        "1": "净存款"
+    }
+    ,
+    "AirdropSent":{
+        "1": "空投已发送"
+    }
+    ,
+    "Received":{
+        "1": "已收到"
+    }
+
+    ,
+    "AirdropLastSent":{
+        "1": "空投最后发送"
+    }
+    ,
+    "Never":{
+        "1": "绝不"
+    }
+    ,
+    "TeamViewer":{
+        "1": "团队查看器"
+    }
+    ,
+    "TeamAirdrop":{
+        "1": "团队空投"
+    }
+    ,
+    "DirectAirdrop":{
+        "1": "直接空投"
+    }
+    ,
+    "Player":{
+        "1": "播放器"
+    }
+    ,
+    "Usemyaddress":{
+        "1": "使用我的地址"
+    }
+    ,
+    "Viewall":{
+        "1": "查看全部"
+    }
+    ,
+    "Show":{
+        "1": "展示"
+    }
+    ,
+    "Campaign":{
+        "1": "活动"
+    }
+    ,
+    "Dividebudgetbetweenmatchingplayers":{
+        "1": "在匹配的玩家之间分配预算"
+    }
+
+    ,
+    "Rewardsbudgettoonematchingplayer":{
+        "1": "奖励预算给一位匹配的玩家"
+    }
+    ,
+    "Dividedbudgetacross5matchingplayers":{
+        "1": "将预算分配给 5 个匹配的玩家"
+    }
+    ,
+    "Dividedbudgetacross20matchingplayers":{
+        "1": "将预算分配给 20 个匹配的玩家"
+    }
+    ,
+    "Dividedbudgetacross50matchingplayers":{
+        "1": "将预算分配给 50 个匹配的玩家"
+    }
+    ,
+    "Dividedbudgetacross100matchingplayers":{
+        "1": "将预算分配给 100 个匹配的玩家"
+    },
+    "Eligiblematchingplayersselectedatrandom":{
+        "1": "随机选择符合条件的匹配玩家"
+    },
+    "Minimumdirects":{
+        "1": "最低指导"
+    },
+    "Teamdepth":{
+        "1": "团队深度"
+    }
+    ,
+    "Minimumnetdeposits":{
+        "1": "最低净存款"
+    }
+    ,
+    "Budget":{
+        "1": "预算"
+    }
+    ,
+    "RUN":{
+        "1": "跑"
+    }
+    ,
+    "Numberofrecipients":{
+        "1": "收件人数量"
+    }
+    ,
+    "EstimatedSplashperperson":{
+        "1": "预计每人溅水量"
+    }
+    ,
+    "SEND":{
+        "1": "发送"
+    }
+    ,
+    "CampaignConsole":{
+        "1": "活动控制台"
+    }
+    ,
+    "CampaignViewer":{
+        "1": "活动查看器"
+    }
+    ,
+    "Address":{
+        "1": "地址"
+    }
+    ,
+    "Deposits":{
+        "1": "存款"
+    },
+    "Status":{
+        "1": "地位"
+    },
+    "About":{
+        "1": "关于"
+    }
+    ,
+    "PlayerscanparticipatebypurchasingSplashfromtheplatform'sTheWellpage,joininganotheruser’sSplashteam(1Splashminimumrequirement)DepositingSplashtotheTheTapcontractearnsaconsistent2%dailyreturnoftheirSplash(365%maximumpayout)passively.Playerscanalsocompoundtheirearningsthroughregulardeposits,rollingrewardsaswellasteambasedreferrals.Unlikemanyotherplatformspromisingaconsistentdaily%return,TheTap'scontractcannotdrainandwillALWAYSbeabletoprovidetheSplashthathasbeenrewarded.Splashrewardscomefroma10%taxonallSplashtransactionsexcludingbuysfromtheplatform'sTheWellpage.":{
+        "1": "玩家可以通过从平台的 井 页面购买 溅 来参与，加入另一个用户的 溅 团队（最低要求 1 溅） 将 溅 存入水龙头合约可以被动地获得持续 2% 的每日 溅 回报（365% 最高支出）。玩家还可以通过定期存款、滚动奖励以及基于团队的推荐来增加收入。与许多其他承诺每日百分比回报一致的平台不同，水龙头 的合约不会耗尽，并且始终能够提供已获得奖励的 溅。 溅 奖励来自对所有 溅 交易征收 10% 的税，不包括从平台的 井 页面购买。"
+    }
+    ,
+    "IfthereiseverasituationwherethetaxpoolisnotenoughtopaySplashrewardsnewSplashwillbemintedtoensurerewardsarepaidout.GiventhegametheorybehindtheSplashnetwork,theprobabilitythatthesystemwillneedtomintnewSplashtopayrewardsisextremelylow.SinceSplashdepositedintoTheTaparesenttoaburnaddressandSplashisconstantlybeinglockedintheliquiditypoolthroughtheTheShorecontract,SplashistheonlydeflationarydailyROIplatform.ThebeststrategyforSplashistofocusonrealworldadoptionbybuildingoutyourteamthroughdirectreferrals,asyouwillreceivebonusrewardsfromreferralsontheirdepositsanddownlinebonusesfromplayerstheyreferbasedontheamountofSplashDAOheldinyourwallet":{
+        "1": "如果出现税收池不足以支付 溅 奖励的情况，将铸造新的 溅 以确保支付奖励。鉴于 溅 网络背后的博弈论，系统需要铸造新的 溅 来支付奖励的概率极低。由于存入 水龙头 的 溅 被发送到一个销毁地址，并且 溅 通过水库合约不断被锁定在流动性池中，因此 溅 是唯一的通货紧缩每日 ROI 平台。 溅 的最佳策略是通过直接推荐来建立您的团队，从而专注于现实世界的采用，因为您将从推荐的存款中获得奖金奖励，并根据您钱包中持有的 飞溅DAO 数量从他们推荐的玩家那里获得下线奖金"
+    }
+    ,
+
+
+
+
+    "Rewards":{
+        "1": "奖励"
+    }
+    ,
+    "TotalDROPS":{
+        "1": "总溅水量"
+    }
+    ,
+    "DROP":{
+        "1": "降低"
+    }
+    ,
+    "Stake":{
+        "1": "赌注"
+    }
+
+    ,
+    "Compounds":{
+        "1": "化合物"
+    }
+    ,
+    "Count":{
+        "1": "数数"
+    }
+    ,
+    "TotalWithdrawn":{
+        "1": "总提款"
+    }
+    ,
+    "CompoundedTotal":{
+        "1": "复合合计"
+    }
+
+    ,
+    "TheShoreisTheSplashNetwork’ssolutionforplayersthatwantbenefitfromnon-inflationaryyieldfarmingthroughaddingliquiditytoSplash":{
+        "1": "有噪音 是 The 溅 Network 的解决方案，适用于希望通过向 溅 增加流动性而从非通胀高产农业中获益的玩家"
+    }
+    ,
+    "COMPOUND":{
+        "1": "化合物"
+    }
+    ,
+    "CLAIM":{
+        "1": "宣称"
+    }
+    ,
+    "BuyandDeposit":{
+        "1": "购买和存款"
+    }
+
+    ,
+    "Estimated":{
+        "1": "Estimated"
+    },
+    "BUY":{
+        "1": "买"
+    }
+
+    ,
+    "Withdraw":{
+        "1": "提取"
+    },
+    "DropBalance":{
+        "1": "掉落余额"
+    },
+    "TheShoreisTheSplashNetwork’ssolutionforplayersthatwantbenefitfromnoninflationaryyieldfarmingthroughaddingliquiditytoSplash.Herearethenumbers":{
+        "1": "有噪音 是 The 溅 Network 的解决方案，适用于希望通过向 溅 增加流动性而从非通胀高产农业中获益的玩家。这是数字"
+    }
+    ,
+    "UserCount":{
+        "1": "用户数"
+    }
+    ,
+    "TotalValueLocked":{
+        "1": "总价值锁定"
+    }
+    ,
+    "DividendPool":{
+        "1": "分红池"
+    }
+    ,
+    "JoinusonTelegram":{
+        "1": "加入我们的 Telegram"
+    },
+    "JoinusTwiter":{
+        "1": "加入我们"
+    },
+
+
+
+
+
+
+
+    "BuySplash":{
+        "1": "购买飞溅"
+    }
+    ,
+    "SplassivePresaleDetails":{
+        "1": "Splassive 预售详情"
+    }
+    ,
+    "WalletMustbewhitelist":{
+        "1": "钱包必须是白名单"
+    }
+    ,
+    "PresalePrice0.00605AVAX":{
+        "1": "预售价 0.00605 AVAX"
+    }
+    ,
+    "ListingPrice0.03025AVAX":{
+        "1": "上市价格 0.03025 AVAX"
+    }
+    ,
+    "Max5AVAXperWallet":{
+        "1": "每个钱包最多 5 个 AVAX"
+    }
+    ,
+    "PresaleContractBalance":{
+        "1": "预售合同余额"
+    }
+    ,
+    "ContractBalance":{
+        "1": "合约余额"
+    }
+    ,
+    "HARDCAP650AVAX":{
+        "1": "硬帽 650 AVAX"
+    }
+    ,
+    "SOFTCAP360AVAX":{
+        "1": "软帽 360 AVAX"
+    }
+    ,
+    "PreSale":{
+        "1": "预售"
+    }
+    ,
+    "EstimatereceivedSplash":{
+        "1": "估计收到 Splash"
+    }
+    ,
+    "BUYAVAX":{
+        "1": "购买 AVAX"
+    }
+    ,
+    "ADMINPANEL":{
+        "1": "管理面板"
+    }
+    ,
+    "AddAddressToWhiteList":{
+        "1": "将地址添加到白名单"
+    }
+    ,
+    "RemoveAddressFromWhitelist":{
+        "1": "从白名单中删除地址"
+    }
+
+}

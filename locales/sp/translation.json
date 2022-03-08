@@ -1,0 +1,699 @@
+{
+    "SWAP":{
+        "1": "INTERCAMBIO"
+    },
+    "THETAP":{
+        "1": "EL GRIFO"
+    },
+    "THESHORE":{
+        "1": "hubo ruidos"
+    },
+    "Whitepaper":{
+        "1": "Papel blanco"
+    },
+    "SplashDAO":{
+        "1": "Splash DAO"
+    },
+    "Tutorial":{
+        "1": "Tutorial"
+    },
+    "English":{
+        "1": "Inglesa"
+    },
+    "China":{
+        "1": "China"
+    },
+    "Korea":{
+        "1": "Corea"
+    },
+    "Spain":{
+        "1": "España"
+    },
+    "Rusia":{
+        "1": "Rusia"
+    },
+    "France":{
+        "1": "Francia"
+    },
+    "MetaMask":{
+        "1": "MetaMask"
+    },
+    "ConnecttoyourMetaMaskWallet":{
+        "1": "Conéctese a su billetera MetaMask"
+    },
+    "WalletConnect":{
+        "1": "Wallet Connect"
+    },
+    "ScanwithWalletConnecttoconnect":{
+        "1": "Escanee con WalletConnect para conectarse"
+    },
+
+
+
+
+
+    "Approve":{
+        "1": "Aprobar"
+    },
+
+    "SplashNETWORK":{
+        "1": "RED DE GOTEO"
+    },
+    "SplashNetworkisthelatestprojectdevelopedby":{
+        "1": "Chapoteo Network es el último proyecto desarrollado por"
+    },
+    "SplassiveTeam":{
+        "1": "Equipo de Splassive"
+    }
+    ,
+    "BB":{
+        "1": "cama y desayuno"
+    }
+    ,
+    "andteam.":{
+        "1": "y equipo."
+    },
+    "TheofficialtokenoftheSplashNetworkisSplash(SPLASH)ontheBinanceSmartblockchain(BSC)thatcapturesvaluebybeingscarce,deflationary,censorshipresistant,andbybeingbuiltonarobust,trulydecentralizedblockchain.":{
+        "1": "El token oficial de Splash Network es Splash (SPLASH) en avalancha Chain (AVAX) que captura valor al ser escaso, deflacionario, resistente a la censura y al estar construido sobre una cadena de bloques robusta y verdaderamente descentralizada."
+    },
+    "TheofficialtokenoftheSplashNetworkisSplash(AVAX)ontheAvalancheChain(AVAX)thatcapturesvaluebybeingscarce,deflationary,censorshipresistant,andbybeingbuiltonarobust,trulydecentralizedblockchain.":{
+        "1": "The official token of the Splash Network is Splash (AVAX) on the avalancha Chain (AVAX) that captures value by being scarce, deflationary, censorship resistant, and by being built on a robust, truly decentralized blockchain."
+    },
+    "TRADE":{
+        "1": "COMERCIO"
+    },
+    "STAKE":{
+        "1": "APOSTAR"
+    },
+    "SelectRandomAddressess":{
+        "1":"Seleccionar direcciones aleatorias"
+    },
+    "LIQUIDITYFARM":{
+        "1": "GRANJA DE LIQUIDEZ"
+    },
+    "STATS":{
+        "1": "ESTADÍSTICAS"
+    },
+    "TheSplashtokencapturestheentirevalueoftheSplashNetworkandmakesitavailabletotheentireAVAXCommunity":{
+        "1": "El token Chapoteo captura todo el valor de Chapoteo Network y lo pone a disposición de toda la comunidad AVAX."
+    },
+    "Players":{
+        "1": "Jugadoras"
+    },
+    "count":{
+        "1": "contar"
+    }
+    ,
+    "Maxdailyreturn":{
+        "1": "Retorno máximo diario"
+    }
+    ,
+    "Totalsupply":{
+        "1": "Suministro total"
+    }
+    ,
+    "Splash":{
+        "1": "Chapoteo"
+    }
+    ,
+    "Transactions":{
+        "1": "Actas"
+    }
+    ,
+    "Activity":{
+        "1": "Actividad"
+    }
+    ,
+    "From":{
+        "1": "Desde"
+    }
+    ,
+    "To":{
+        "1": "A"
+    }
+    ,
+    "Amount":{
+        "1": "Monto"
+    }
+    ,
+
+
+
+
+
+
+
+
+
+
+    "TheWell":{
+        "1": "La pozo"
+    }
+    ,
+    "Price":{
+        "1": "Precio"
+    }
+    ,
+    "AVAX/Splash":{
+        "1": "AVAX / GOTEO"
+    }
+    ,
+    "AVAXBalance":{
+        "1": "Saldo AVAX"
+    }
+    ,
+    "USDT":{
+        "1": "USDT"
+    },
+    "AVAX":{
+        "1": "AVAX"
+    }
+    ,
+    "SplashBalance":{
+        "1": "Saldo de Chapoteo"
+    }
+
+    ,
+    "BuySplash":{
+        "1": "Comprar Chapoteo"
+    }
+
+    ,
+    "Slippagetolerance":{
+        "1": "Tolerancia al deslizamiento"
+    }
+    ,
+    "Estimatereceived":{
+        "1": "Estimación recibida"
+    }
+    ,
+    "Minimumreceived":{
+        "1": "Mínima recibida"
+    }
+    ,
+    "Buy":{
+        "1": "Comprar"
+    }
+    ,
+    "SELLSplash":{
+        "1": "VENDER GOTEO"
+    }
+
+    ,
+    "Max":{
+        "1": "Max"
+    }
+    ,
+    "10%Taxisappliedonsells":{
+        "1": "Se aplica un 10% de impuesto sobre las ventas"
+    }
+    ,
+    "Sell":{
+        "1": "Vender"
+    }
+    ,
+    "ApproveSplash":{
+        "1": "Aprobar Chapoteo"
+    }
+    ,
+    "Chart":{
+        "1": "Gráfico"
+    }
+    ,
+    "Stats":{
+        "1": "Estadisticas"
+    }
+    ,
+    "TheWellisthebestwaytoexchangevalueintheSplashNetwork!Herearethenumbers":{
+        "1": "El pozo es la mejor manera de cambiar valor en Chapoteo Network! Aquí están los números"
+    }
+
+    ,
+    "Supply":{
+        "1": "Suministro"
+    }
+    ,
+    "ContractBalance":{
+        "1": "Saldo del contrato"
+    }
+    ,
+    "DROPS":{
+        "1": "GOTAS"
+    }
+    ,
+    "LOCKED":{
+        "1": "BLOQUEADA"
+    },
+    "Tranactions":{
+        "1": "Actas"
+    }
+
+    ,
+    "Txs":{
+        "1": "Txs"
+    }
+
+    ,
+
+
+
+
+
+
+    "Available":{
+        "1": "Disponible"
+    }
+    ,
+    "Deposit":{
+        "1": "Depositar"
+    }
+    ,
+    "Claimed":{
+        "1": "Reclamada"
+    }
+    ,
+    "Rewarded":{
+        "1": "Recompensada"
+    }
+    ,
+    "Direct":{
+        "1": "Directa"
+    }
+    ,
+    "Indirect":{
+        "1": "Indirecta"
+    }
+    ,
+    "MaxPayout":{
+        "1": "Pago máximo"
+    }
+    ,
+    "Team":{
+        "1": "Equipo"
+    }
+    ,
+    "Total":{
+        "1": "Total"
+    }
+    ,
+    "Splassive’sTheTapisalowrisk,highrewardcontractthatoperatessimilarlytoahighyieldcertificateofdepositbypayingout2%dailyreturnoninvestmentupto360%.":{
+        "1": "Splassive's El grifo es un contrato de alta recompensa y bajo riesgo que funciona de manera similar a un certificado de depósito de alto rendimiento al pagar un 2% de retorno diario de la inversión hasta un 360%."
+    }
+    ,
+    "Playerscancompoundandextendtheirearningsthroughdeposits,hydrating(compounding)rewardsaswellasthroughteambasedreferrals.":{
+        "1": "Los jugadores pueden acumular y extender sus ganancias a través de depósitos, recompensas de hidratación (capitalización), así como a través de referencias basadas en equipos."
+    }
+    ,
+    "CopyReferralLink":{
+        "1": "Copiar enlace de referencia"
+    },
+    "GetSplash":{
+        "1": "Obtener Chapoteo"
+    }
+    ,
+    "Aminimumof1Splashrequiredfordeposits":{
+        "1": "Se requiere un mínimo de 1 Splash para depósitos."
+    }
+    ,
+    "A10%taxischargedondeposits":{
+        "1": "Se cobra un impuesto del 10% sobre los depósitos."
+    }
+    ,
+    "HYDRATE":{
+        "1": "HIDRATAR"
+    }
+    ,
+    "recompound":{
+        "1": "recomponer"
+    }
+    ,
+    "Claim":{
+        "1": "Afirmar"
+    }
+    ,
+    "JoinTheWave":{
+        "1": "Únete a la ola"
+    }
+    ,
+    "CurrentWaveStarter":{
+        "1": "Arrancador de onda actual"
+    }
+    ,
+    "None":{
+        "1": "Ninguna"
+    }
+    ,
+    "Manager":{
+        "1": "Gerente"
+    }
+    ,
+    "Beneficiary":{
+        "1": "Beneficiaria"
+    }
+    ,
+    "LastCheckin":{
+        "1": "Último registro"
+    }
+    ,
+    "InactivityThreshold":{
+        "1": "Umbral de inactividad"
+    }
+    ,
+    "WaveStarter":{
+        "1": "Arrancador de olas"
+    }
+    ,
+    "Update":{
+        "1": "Actualizar"
+    }
+
+    ,
+    "SupportMarketingandDevelopment":{
+        "1": "Apoyar el marketing y el desarrollo"
+    }
+    ,
+    "CheckoutWhoSplashed":{
+        "1": "Comprobar quién salpicó"
+    }
+    ,
+    "PlayerLookup":{
+        "1": "Búsqueda de jugador"
+    }
+    ,
+    "GO":{
+        "1": "VAMOS"
+    }
+    ,
+    "PlayerInfo":{
+        "1": "Información del jugador"
+    }
+    ,
+    "Directs":{
+        "1": "Dirige"
+    }
+    ,
+    "NetDeposits":{
+        "1": "Depósitos netos"
+    }
+    ,
+    "AirdropSent":{
+        "1": "Airdrop enviado"
+    }
+    ,
+    "Received":{
+        "1": "Recibida"
+    }
+
+    ,
+    "AirdropLastSent":{
+        "1": "Airdrop Última Enviado"
+    }
+    ,
+    "Never":{
+        "1": "Nunca"
+    }
+    ,
+    "TeamViewer":{
+        "1": "Visor de equipo"
+    }
+    ,
+    "TeamAirdrop":{
+        "1": "Equipo Airdrop"
+    }
+    ,
+    "DirectAirdrop":{
+        "1": "Airdrop directo"
+    }
+    ,
+    "Player":{
+        "1": "Jugadora"
+    }
+    ,
+    "Usemyaddress":{
+        "1": "Usa mi direccion"
+    }
+    ,
+    "Viewall":{
+        "1": "Ver todo"
+    }
+    ,
+    "Show":{
+        "1": "Show"
+    }
+    ,
+    "Campaign":{
+        "1": "Campaña"
+    }
+    ,
+    "Dividebudgetbetweenmatchingplayers":{
+        "1": "Divide el presupuesto entre jugadores coincidentes"
+    }
+
+    ,
+    "Rewardsbudgettoonematchingplayer":{
+        "1": "Recompensa el presupuesto a un jugador que coincida"
+    }
+    ,
+    "Dividedbudgetacross5matchingplayers":{
+        "1": "Presupuesto dividido en 5 jugadores coincidentes"
+    }
+    ,
+    "Dividedbudgetacross20matchingplayers":{
+        "1": "Presupuesto dividido entre 20 jugadoras coincidentes"
+    }
+    ,
+    "Dividedbudgetacross50matchingplayers":{
+        "1": "Presupuesto dividido en 50 jugadoras coincidentes"
+    }
+    ,
+    "Dividedbudgetacross100matchingplayers":{
+        "1": "Presupuesto dividido en 50 jugadores coincidentes Presupuesto dividido en 100 jugadores compatibles"
+    },
+    "Eligiblematchingplayersselectedatrandom":{
+        "1": "Jugadores coincidentes elegibles seleccionados al aza"
+    },
+    "Minimumdirects":{
+        "1": "Directos mínimos"
+    },
+    "Teamdepth":{
+        "1": "Profundidad del equipo"
+    }
+    ,
+    "Minimumnetdeposits":{
+        "1": "Depósitos netos mínimos"
+    }
+    ,
+    "Budget":{
+        "1": "Presupuesto"
+    }
+    ,
+    "RUN":{
+        "1": "CORRER"
+    }
+    ,
+    "Numberofrecipients":{
+        "1": "Número de destinatarias"
+    }
+    ,
+    "EstimatedSplashperperson":{
+        "1": "Goteo estimado por persona"
+    }
+    ,
+    "SEND":{
+        "1": "ENVIAR"
+    }
+    ,
+    "CampaignConsole":{
+        "1": "Consola de campaña"
+    }
+    ,
+    "CampaignViewer":{
+        "1": "Visor de campañas"
+    }
+    ,
+    "Address":{
+        "1": "Habla a"
+    }
+    ,
+    "Deposits":{
+        "1": "Depósitos"
+    },
+    "Status":{
+        "1": "Status"
+    },
+    "About":{
+        "1": "Estado"
+    }
+    ,
+    "PlayerscanparticipatebypurchasingSplashfromtheplatform'sTheWellpage,joininganotheruser’sSplashteam(1Splashminimumrequirement)DepositingSplashtotheTheTapcontractearnsaconsistent1%dailyreturnoftheirSplash(365%maximumpayout)passively.Playerscanalsocompoundtheirearningsthroughregulardeposits,rollingrewardsaswellasteambasedreferrals.Unlikemanyotherplatformspromisingaconsistentdaily%return,TheTap'scontractcannotdrainandwillALWAYSbeabletoprovidetheSplashthathasbeenrewarded.Splashrewardscomefroma10%taxonallSplashtransactionsexcludingbuysfromtheplatform'sTheWellpage.":{
+        "1": "Los jugadores pueden participar comprando Chapoteo desde la página EL POZO de la plataforma, uniéndose al equipo de Chapoteo de otro usuario (requisito mínimo de 1 Chapoteo) Al depositar Chapoteo en el contrato de El grifo, se obtiene un retorno diario constante del 2% de su Chapoteo (pago máximo del 365%) de forma pasiva. Los jugadores también pueden acumular sus ganancias a través de depósitos regulares, recompensas continuas y referencias basadas en equipos. A diferencia de muchas otras plataformas que prometen un% de retorno diario constante, el contrato de El grifo no se puede agotar y SIEMPRE podrá proporcionar el Chapoteo que ha sido recompensado. Las recompensas de Chapoteo provienen de un impuesto del 10% en todas las transacciones de Chapoteo, excluidas las compras de la página EL POZO de la plataforma."
+    }
+    ,
+    "IfthereiseverasituationwherethetaxpoolisnotenoughtopaySplashrewardsnewSplashwillbemintedtoensurerewardsarepaidout.GiventhegametheorybehindtheSplashnetwork,theprobabilitythatthesystemwillneedtomintnewSplashtopayrewardsisextremelylow.SinceSplashdepositedintoTheTaparesenttoaburnaddressandSplashisconstantlybeinglockedintheliquiditypoolthroughtheTheShorecontract,SplashistheonlydeflationarydailyROIplatform.ThebeststrategyforSplashistofocusonrealworldadoptionbybuildingoutyourteamthroughdirectreferrals,asyouwillreceivebonusrewardsfromreferralsontheirdepositsanddownlinebonusesfromplayerstheyreferbasedontheamountofSplashDAOheldinyourwallet":{
+        "1": "Si alguna vez hay una situación en la que el fondo de impuestos no es suficiente para pagar las recompensas de Chapoteo, se acuñará un nuevo Chapoteo para garantizar que se paguen las recompensas. Dada la teoría del juego detrás de la red Chapoteo, la probabilidad de que el sistema necesite acuñar un nuevo Chapoteo para pagar recompensas es extremadamente baja. Dado que los Chapoteo depositados en El grifo se envían a una dirección de grabación y Chapoteo se bloquea constantemente en el fondo de liquidez a través del contrato de depósito, Chapoteo es la única plataforma de ROI diaria deflacionaria. La mejor estrategia para Chapoteo es enfocarse en la adopción del mundo real mediante la construcción de su equipo a través de referencias directas, ya que recibirá recompensas de bonificación de las referencias en sus depósitos y bonificaciones de línea descendente de los jugadores que refieren según la cantidad de salpicadura dao que tiene en su billetera."
+    }
+    ,
+
+
+
+
+    "Rewards":{
+        "1": "Recompensas"
+    }
+    ,
+    "TotalDROPS":{
+        "1": "GOTAS totales"
+    }
+    ,
+    "DROP":{
+        "1": "SOLTAR"
+    }
+    ,
+    "Stake":{
+        "1": "Apostar"
+    }
+
+    ,
+    "Compounds":{
+        "1": "Compuestas"
+    }
+    ,
+    "Count":{
+        "1": "Contar"
+    }
+    ,
+    "TotalWithdrawn":{
+        "1": "Total retirado"
+    }
+    ,
+    "CompoundedTotal":{
+        "1": "Total compuesto"
+    }
+
+    ,
+    "TheShoreisTheSplashNetwork’ssolutionforplayersthatwantbenefitfromnon-inflationaryyieldfarmingthroughaddingliquiditytoSplash":{
+        "1": "The Shore es la solución de la red Chapoteo para los jugadores que desean beneficiarse de la agricultura de rendimiento no inflacionario mediante la adición de liquidez a Chapoteo"
+    }
+    ,
+    "COMPOUND":{
+        "1": "COMPUESTA"
+    }
+    ,
+    "CLAIM":{
+        "1": "AFIRMAR"
+    }
+    ,
+    "BuyandDeposit":{
+        "1": "Comprar y depositar"
+    }
+
+    ,
+    "Estimated":{
+        "1": "Estimada"
+    },
+    "BUY":{
+        "1": "COMPRAR"
+    }
+
+    ,
+    "Withdraw":{
+        "1": "Retirar"
+    },
+    "DropBalance":{
+        "1": "Saldo de caída"
+    },
+    "TheShoreisTheSplashNetwork’ssolutionforplayersthatwantbenefitfromnoninflationaryyieldfarmingthroughaddingliquiditytoSplash.Herearethenumbers":{
+        "1": "The Shore es la solución de la red Chapoteo para los jugadores que desean beneficiarse de la agricultura de rendimiento no inflacionario mediante la adición de liquidez a Chapoteo. Aquí están los números"
+    }
+    ,
+    "UserCount":{
+        "1": "Recuento de usuarios"
+    }
+    ,
+    "TotalValueLocked":{
+        "1": "Valor total bloqueado"
+    }
+    ,
+    "DividendPool":{
+        "1": "Fondo de dividendos"
+    }
+    ,
+    "JoinusonTelegram":{
+        "1": "Únete a nosotras en Telegram"
+    },
+    "JoinusTwiter":{
+        "1": "Únete a nosotras Twitter"
+    },
+
+
+
+
+
+
+
+    "BuySplash":{
+        "1": "Comprar chapoteo"
+    }
+    ,
+    "SplassivePresaleDetails":{
+        "1": "Splassive Presale Details"
+    }
+    ,
+    "WalletMustbewhitelist":{
+        "1": "Detalles de preventa de Splassive"
+    }
+    ,
+    "PresalePrice0.00605AVAX":{
+        "1": "Precio de Preventa 0.00605 AVAX"
+    }
+    ,
+    "ListingPrice0.03025AVAX":{
+        "1": "Precio de lista 0.03025 AVAX"
+    }
+    ,
+    "Max5AVAXperWallet":{
+        "1": "Máx. 5 AVAX por billetera"
+    }
+    ,
+    "PresaleContractBalance":{
+        "1": "Saldo del contrato de preventa"
+    }
+    ,
+    "ContractBalance":{
+        "1": "Saldo del contrato"
+    }
+    ,
+    "HARDCAP650AVAX":{
+        "1": "TAPÓN DURO 650 AVAX"
+    }
+    ,
+    "SOFTCAP360AVAX":{
+        "1": "GORRA SUAVE 360 AVAX"
+    }
+    ,
+    "PreSale":{
+        "1": "Preventa"
+    }
+    ,
+    "EstimatereceivedSplash":{
+        "1": "Presupuesto recibido Splash"
+    }
+    ,
+    "BUYAVAX":{
+        "1": "COMPRAR AVAX"
+    }
+    ,
+    "ADMINPANEL":{
+        "1": "PANEL DE ADMINISTRADOR"
+    }
+    ,
+    "AddAddressToWhiteList":{
+        "1": "Agregar dirección a la lista blanca"
+    }
+    ,
+    "RemoveAddressFromWhitelist":{
+        "1": "Eliminar dirección de la lista blanca"
+    }
+
+
+}
