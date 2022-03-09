@@ -174,7 +174,7 @@
     }
 
     ,
-    "BuySplash":{
+    "BUYSPLASH":{
         "1": "Buy Splash"
     }
 
@@ -631,7 +631,7 @@
 
 
 
-    "BuySplash":{
+    "BUYSPLASH":{
         "1": "Buy Splash"
     }
     ,
@@ -679,8 +679,8 @@
         "1": "Estimate received Splash"
     }
     ,
-    "BUYAVAX":{
-        "1": "BUY AVAX"
+    "BUY SPLASH":{
+        "1": "BUY SPLASH"
     }
     ,
     "ADMINPANEL":{
