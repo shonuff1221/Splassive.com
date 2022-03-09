@@ -174,7 +174,7 @@
     }
 
     ,
-    "BUY SPLASH":{
+    "BuySplash":{
         "1": "Comprar Chapoteo"
     }
 
@@ -631,7 +631,7 @@
 
 
 
-    "BUY SPLASH":{
+    "BuySplash":{
         "1": "Comprar chapoteo"
     }
     ,
@@ -679,7 +679,7 @@
         "1": "Presupuesto recibido Splash"
     }
     ,
-    "BUY SPLASH":{
+    "BUYAVAX":{
         "1": "COMPRAR AVAX"
     }
     ,
